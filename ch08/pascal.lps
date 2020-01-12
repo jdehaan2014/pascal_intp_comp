@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="40">
+      <Unit0>
+        <Filename Value="pascal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="18"/>
+        <CursorPos X="31" Y="31"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ubaseparser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos Y="62"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="usource.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="16"/>
+        <CursorPos X="20" Y="3"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="ubasescanner.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="17"/>
+        <CursorPos X="23" Y="14"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="utoken.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="20"/>
+        <TopLine Value="10"/>
+        <CursorPos X="26" Y="31"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="ueoftoken.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uEOFToken"/>
+        <EditorIndex Value="22"/>
+        <CursorPos X="15"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="umessages.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="23"/>
+        <TopLine Value="164"/>
+        <CursorPos Y="190"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="ucode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="31"/>
+        <TopLine Value="8"/>
+        <CursorPos X="45" Y="41"/>
+        <UsageCount Value="227"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="usymtab.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="19"/>
+        <CursorPos X="46" Y="33"/>
+        <UsageCount Value="227"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="ubackend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="25"/>
+        <TopLine Value="36"/>
+        <CursorPos X="23" Y="49"/>
+        <UsageCount Value="213"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="upascalparsertd.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalParserTD"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="22" Y="14"/>
+        <UsageCount Value="211"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="upascalscanner.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalScanner"/>
+        <EditorIndex Value="19"/>
+        <CursorPos X="11" Y="11"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="ufrontendfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uFrontendFactory"/>
+        <EditorIndex Value="24"/>
+        <CursorPos X="20" Y="8"/>
+        <UsageCount Value="207"/>
+        <Loaded Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="ucodegen.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCodeGen"/>
+        <EditorIndex Value="27"/>
+        <CursorPos X="20" Y="7"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="uexecutor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uExecutor"/>
+        <EditorIndex Value="28"/>
+        <TopLine Value="47"/>
+        <CursorPos Y="82"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="ubackendfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uBackendFactory"/>
+        <EditorIndex Value="26"/>
+        <CursorPos X="49" Y="19"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="upascal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascal"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="238"/>
+        <CursorPos X="11" Y="262"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="utokentype.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTokenType"/>
+        <EditorIndex Value="21"/>
+        <CursorPos Y="15"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="upascaltoken.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalToken"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="147"/>
+        <CursorPos X="23" Y="185"/>
+        <UsageCount Value="221"/>
+        <Loaded Value="True"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="upascaltokentyp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalTokentyp"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="35"/>
+        <CursorPos X="21" Y="70"/>
+        <UsageCount Value="221"/>
+        <Loaded Value="True"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="uobjectutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uObjectUtils"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="85"/>
+        <CursorPos X="40" Y="8"/>
+        <UsageCount Value="220"/>
+        <Loaded Value="True"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="utypehelpers.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTypeHelpers"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="18"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="220"/>
+        <Loaded Value="True"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="anyobject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AnyObject"/>
+        <EditorIndex Value="18"/>
+        <TopLine Value="20"/>
+        <CursorPos Y="87"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="upascalerrorcode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalErrorCode"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="34" Y="8"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="upascalerrorhandler.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalErrorHandler"/>
+        <EditorIndex Value="7"/>
+        <CursorPos Y="46"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="usymtabfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uSymtabFactory"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="10"/>
+        <CursorPos X="20" Y="15"/>
+        <UsageCount Value="209"/>
+        <Loaded Value="True"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="usymtabimpl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uSymtabImpl"/>
+        <EditorIndex Value="15"/>
+        <TopLine Value="294"/>
+        <CursorPos Y="319"/>
+        <UsageCount Value="209"/>
+        <Loaded Value="True"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="ucrossref.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCrossRef"/>
+        <EditorIndex Value="35"/>
+        <CursorPos X="26" Y="22"/>
+        <UsageCount Value="216"/>
+        <Loaded Value="True"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="ucodefactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCodeFactory"/>
+        <EditorIndex Value="33"/>
+        <CursorPos X="35" Y="18"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="ucodeimpl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCodeImpl"/>
+        <EditorIndex Value="34"/>
+        <TopLine Value="88"/>
+        <CursorPos X="21" Y="42"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="uparsetreeprinter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uParseTreePrinter"/>
+        <EditorIndex Value="36"/>
+        <TopLine Value="137"/>
+        <CursorPos X="54" Y="149"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="upascalparsers.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalParsers"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="905"/>
+        <CursorPos Y="918"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="uruntimeerrorhandler.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uRuntimeErrorHandler"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="21"/>
+        <CursorPos X="32" Y="42"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="uruntimeerrorcode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uRuntimeErrorCode"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="9"/>
+        <CursorPos X="30" Y="40"/>
+        <UsageCount Value="206"/>
+        <Loaded Value="True"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="uexecutors.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uExecutors"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="29"/>
+        <CursorPos X="24" Y="13"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="../../../FreePascal3/fpc/rtl/objpas/fgl.pp"/>
+        <EditorIndex Value="32"/>
+        <TopLine Value="1381"/>
+        <CursorPos X="18" Y="1402"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="../../../FreePascal3/fpc/rtl/inc/rtti.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="369"/>
+        <UsageCount Value="10"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="../../../FreePascal3/fpc/packages/fcl-base/src/rttiutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="137"/>
+        <UsageCount Value="10"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="../../../FreePascal3/fpc/rtl/objpas/sysutils/syshelph.inc"/>
+        <EditorIndex Value="30"/>
+        <TopLine Value="17"/>
+        <CursorPos X="31" Y="38"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="genericlists.pas"/>
+        <UnitName Value="GenericLists"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="131"/>
+        <CursorPos X="27" Y="148"/>
+        <UsageCount Value="15"/>
+      </Unit39>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="upascalparsers.pas"/>
+        <Caret Line="164" Column="24" TopLine="137"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uobjectutils.pas"/>
+        <Caret Line="114" Column="49" TopLine="88"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uobjectutils.pas"/>
+        <Caret Line="440" Column="29" TopLine="418"/>
+      </Position3>
+      <Position4>
+        <Filename Value="upascalparsers.pas"/>
+        <Caret Line="161" Column="58" TopLine="140"/>
+      </Position4>
+      <Position5>
+        <Filename Value="upascalparsers.pas"/>
+        <Caret Line="772" Column="40" TopLine="752"/>
+      </Position5>
+      <Position6>
+        <Filename Value="upascalparsers.pas"/>
+        <Caret Line="785" Column="18" TopLine="764"/>
+      </Position6>
+      <Position7>
+        <Filename Value="upascalparsers.pas"/>
+        <Caret Line="809" Column="20" TopLine="788"/>
+      </Position7>
+      <Position8>
+        <Filename Value="upascalparsers.pas"/>
+        <Caret Line="822" Column="18" TopLine="801"/>
+      </Position8>
+      <Position9>
+        <Filename Value="upascalparsers.pas"/>
+        <Caret Line="919" Column="18" TopLine="898"/>
+      </Position9>
+      <Position10>
+        <Filename Value="upascalparsers.pas"/>
+        <Caret Line="931" Column="29" TopLine="909"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="62" Column="22" TopLine="27"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="102" Column="6" TopLine="78"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="69" Column="16" TopLine="47"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="115" Column="6" TopLine="95"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="77" Column="16" TopLine="47"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="79" Column="25" TopLine="56"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="515" Column="23" TopLine="479"/>
+      </Position17>
+      <Position18>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="10" Column="39"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="499" Column="18" TopLine="488"/>
+      </Position19>
+      <Position20>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="513" Column="35" TopLine="491"/>
+      </Position20>
+      <Position21>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="83" Column="32" TopLine="69"/>
+      </Position21>
+      <Position22>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="79" Column="55" TopLine="66"/>
+      </Position22>
+      <Position23>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="542" Column="54" TopLine="515"/>
+      </Position23>
+      <Position24>
+        <Filename Value="../../../FreePascal3/fpc/rtl/objpas/fgl.pp"/>
+        <Caret Line="1411" Column="16" TopLine="1381"/>
+      </Position24>
+      <Position25>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="553" Column="3" TopLine="522"/>
+      </Position25>
+      <Position26>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="83" TopLine="55"/>
+      </Position26>
+      <Position27>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="563" Column="8" TopLine="530"/>
+      </Position27>
+      <Position28>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="588" TopLine="557"/>
+      </Position28>
+      <Position29>
+        <Filename Value="upascalparsers.pas"/>
+        <Caret Line="914" Column="6" TopLine="908"/>
+      </Position29>
+      <Position30>
+        <Filename Value="uexecutors.pas"/>
+        <Caret Line="510" Column="37" TopLine="491"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
