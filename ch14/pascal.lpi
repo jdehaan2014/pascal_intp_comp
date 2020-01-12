@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <General>
+      <Flags>
+        <SaveOnlyProjectUnits Value="True"/>
+        <MainUnitHasUsesSectionForAllUnits Value="False"/>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="pascal"/>
+      <ResourceType Value="res"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <BuildNr Value="1"/>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="2">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="LCLBase"/>
+      </Item2>
+    </RequiredPackages>
+    <Units Count="47">
+      <Unit0>
+        <Filename Value="pascal.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ubaseparser.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="usource.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="ubasescanner.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="utoken.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="ueoftoken.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uEOFToken"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="umessages.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="ucode.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="ubackend.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="upascalparsertd.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalParserTD"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="upascalscanner.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalScanner"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="ufrontendfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uFrontendFactory"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="ucodegen.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCodeGen"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="uexecutor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uExecutor"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="ubackendfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uBackendFactory"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="upascal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascal"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="utokentype.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTokenType"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="upascaltoken.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalToken"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="upascaltokentyp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalTokentyp"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="uobjectutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uObjectUtils"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="utypehelpers.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTypeHelpers"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="anyobject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AnyObject"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="upascalerrorcode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalErrorCode"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="upascalerrorhandler.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalErrorHandler"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="usymtabfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uSymtabFactory"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="usymtabimpl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uSymtabImpl"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="ucrossref.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCrossRef"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="ucodefactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCodeFactory"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="ucodeimpl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCodeImpl"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="uparsetreeprinter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uParseTreePrinter"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="upascalparsers.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPascalParsers"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="uruntimeerrorhandler.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uRuntimeErrorHandler"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="uruntimeerrorcode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uRuntimeErrorCode"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="uexecutors.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uExecutors"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="utypesimpl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTypesImpl"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="utypesfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTypesFactory"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="upredefined.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPredefined"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="udefinitionimpl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDefinitionImpl"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="ugenericinterfaces.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uGenericInterfaces"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="umemoryimpl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMemoryImpl"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="umemory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMemory"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="umemoryfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMemoryFactory"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="utextreader.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTextReader"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="udebugger.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDebugger"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="udebuggertype.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDebuggerType"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="udebuggerimpl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDebuggerImpl"/>
+      </Unit45>
+      <Unit46>
+        <Filename Value="uidecontrol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uIDEControl"/>
+      </Unit46>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <Target>
+      <Filename Value="pascal"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Parsing>
+      <SyntaxOptions>
+        <AllowLabel Value="False"/>
+      </SyntaxOptions>
+    </Parsing>
+    <CodeGeneration>
+      <SmartLinkUnit Value="True"/>
+      <Optimizations>
+        <OptimizationLevel Value="2"/>
+      </Optimizations>
+      <SmallerCode Value="True"/>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <GenerateDebugInfo Value="False"/>
+        <StripSymbols Value="True"/>
+      </Debugging>
+      <LinkSmart Value="True"/>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

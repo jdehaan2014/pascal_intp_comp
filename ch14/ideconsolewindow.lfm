@@ -1,0 +1,57 @@
+object FormConsole: TFormConsole
+  Left = 539
+  Height = 322
+  Top = 503
+  Width = 811
+  Anchors = [akTop, akLeft, akRight]
+  Caption = 'Pascal IDE: Console window'
+  ClientHeight = 322
+  ClientWidth = 811
+  OnClose = FormClose
+  LCLVersion = '1.7'
+  object Panel1: TPanel
+    Left = 0
+    Height = 50
+    Top = 272
+    Width = 811
+    Align = alBottom
+    ClientHeight = 50
+    ClientWidth = 811
+    TabOrder = 0
+    object EditRuntimeInput: TLabeledEdit
+      Left = 8
+      Height = 22
+      Top = 23
+      Width = 705
+      Anchors = [akTop, akLeft, akRight]
+      EditLabel.AnchorSideLeft.Control = EditRuntimeInput
+      EditLabel.AnchorSideRight.Control = EditRuntimeInput
+      EditLabel.AnchorSideRight.Side = asrBottom
+      EditLabel.AnchorSideBottom.Control = EditRuntimeInput
+      EditLabel.Left = 8
+      EditLabel.Height = 16
+      EditLabel.Top = 4
+      EditLabel.Width = 705
+      EditLabel.Caption = 'Runtime input text'
+      EditLabel.ParentColor = False
+      TabOrder = 0
+    end
+    object ButtonEnter: TButton
+      Left = 721
+      Height = 25
+      Top = 20
+      Width = 75
+      Anchors = [akTop, akRight]
+      Caption = 'Enter'
+      TabOrder = 1
+    end
+  end
+  object MemoOutput: TMemo
+    Left = 0
+    Height = 272
+    Top = 0
+    Width = 811
+    Align = alClient
+    TabOrder = 1
+  end
+end
